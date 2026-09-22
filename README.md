@@ -10,7 +10,7 @@
 > | SoC | MediaTek MT7621A(MIPS 双核 880MHz) |
 > | 内存 / 闪存 | 256MB DDR3 / 128MB NAND Flash |
 > | 无线 | 2.4GHz + 5GHz 双频 |
-> | 有线 | 1 WAN + 3 LAN,千兆 |
+> | 有线 | 1 WAN + 2 LAN,千兆 |
 > | 原厂系统 | MiWiFi 稳定版(基于 OpenWrt 二次开发,未开放 SSH) |
 
 > **免责声明**
